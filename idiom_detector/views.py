@@ -4,5 +4,10 @@ from django.template import loader
 
 #Create your views here
 def index(request):
-    template = loader.get_template('Idiomsdetector.html')
+    template = loader.get_template('index.html')
     return HttpResponse(template.render())
+
+def training(request):
+    template = loader.get_template('trainDataset.html')
+    return HttpResponse(template.render())
+

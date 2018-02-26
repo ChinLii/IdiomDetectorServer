@@ -21,5 +21,6 @@ from idiom_detector import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url(r'^$',views.index)
+    url(r'^$',views.index),
+    url(r'^training/$',views.training),
 ]
