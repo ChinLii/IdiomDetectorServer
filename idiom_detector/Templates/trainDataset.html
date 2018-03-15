@@ -31,11 +31,14 @@
     <div class="login-page">
         <div class="form">
                 <label>Select file for training dataset </label>
-            <form class="login-form">
+            <form method="post" enctype="multipart/form-data" action="" class="login-form">
+                {% csrf_token %}
                     <br>
                     <div class="custom-file">
-                        <input type="file" class="custom-file-input" id="customFile">
-                        <label class="custom-file-label" for="customFile">Choose file</label>
+                        <input id="file" name="file" type="file" class="file" data-preview-file-type="text" >
+
+                        <br>
+                        <button class="btn btn-primary"> <span class="glyphicon glyphicon-upload" style="margin-right:5px;"></span>Detect Idioms </button>
                     </div>
             </form>
         </div>

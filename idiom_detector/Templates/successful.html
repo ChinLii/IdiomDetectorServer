@@ -35,45 +35,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/4.4.8/js/locales/(lang).js"></script>
 
     <title>Idiom Detector</title>
-<script>
-    $("#input-id").fileinput();
-
-</script>
-
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Idiom Detector</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/training">Training Dataset</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    <div class="login-page">
-        <div class="form">
-                <label>Select file for Detecting Idioms </label>
-            <form method="post" enctype="multipart/form-data" action="" class="login-form">
-                {% csrf_token %}
-                    <br>
-                    <div class="custom-file">
-                        <input id="file" name="my_uploaded_file" type="file" class="file" data-preview-file-type="text" >
-
-                        <br>
-                        <button class="btn btn-primary"> <span class="glyphicon glyphicon-upload" style="margin-right:5px;"></span>Detect Idioms </button>
-                    </div>
-            </form>
-        </div>
-    </div>
-    <style>
+<style>
         @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
         .login-page {
@@ -190,11 +152,34 @@
             -moz-osx-font-smoothing: grayscale;
         }
     </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Idiom Detector</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/training">Training Dataset</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    <br>
+    <div class="container">
+        <div class="login-page">
+            <div class="form">
+                <h3> Accuracy percentage: </h3>
+                <center><h4 class="text-center" style="">{{ data }} %</h4></center>
+            </div>
+        </div>
+    </div>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
+
+</body>
 </html>

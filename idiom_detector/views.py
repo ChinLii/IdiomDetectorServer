@@ -1,13 +1,46 @@
-from django.shortcuts import render
-from django.http import HttpResponse
+import os
+from audioop import reverse
+
+from django.core.checks import messages
+from django.http import HttpResponse, HttpResponseRedirect
 from django.template import loader
 
-#Create your views here
+from .forms import UploadFileForm
+from django.shortcuts import render
+from pip.utils import logging
+
+from idiom_detector.VNAAD_extraction_SVM import Detectidioms
+from .functions import handle_uploaded_file
+
+
+# Create your views here
+
 def index(request):
-    template = loader.get_template('index.html')
-    return HttpResponse(template.render())
+    data = {}
+    if "GET" == request.method:
+        return render(request, "index.html", data)
+    else:
+        my_uploaded_file = request.FILES['my_uploaded_file'].read()
+        result = Detectidioms(my_uploaded_file)
+        return HttpResponse(result, content_type="text/plain")
+
 
 def training(request):
-    template = loader.get_template('trainDataset.html')
-    return HttpResponse(template.render())
+    if request.method == 'POST':
+        form = UploadFileForm(request.POST, request.FILES)
+        if form.is_valid():
+            print("pass")
+            percentage = handle_uploaded_file(request.FILES['file'])
+            request.session['data'] = percentage
+            return HttpResponseRedirect('/successful')
 
+    else:
+        form = UploadFileForm()
+        print("Fail")
+    return render(request, 'trainDataset.html', {'form': form})
+
+
+def successful(request):
+    data = request.session['data']
+    data = data * 100
+    return render(request, "successful.html", {'data': data})
