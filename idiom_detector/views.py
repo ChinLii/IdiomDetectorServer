@@ -16,13 +16,7 @@ from .functions import handle_uploaded_file
 # Create your views here
 
 def index(request):
-    data = {}
-    if "GET" == request.method:
-        return render(request, "index.html", data)
-    else:
-        my_uploaded_file = request.FILES['my_uploaded_file'].read()
-        result = Detectidioms(my_uploaded_file)
-        return HttpResponse(result, content_type="text/plain")
+    return render(request, "index.html")
 
 
 def training(request):

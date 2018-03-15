@@ -60,12 +60,12 @@
       </nav>
     <div class="login-page">
         <div class="form">
-                <label>Select file for Detecting Idioms </label>
+                <label> Enter Idioms </label>
             <form method="post" enctype="multipart/form-data" action="" class="login-form">
                 {% csrf_token %}
                     <br>
                     <div class="custom-file">
-                        <input id="file" name="my_uploaded_file" type="file" class="file" data-preview-file-type="text" >
+                        <input id="file" name="my_uploaded_file" type="text" class="file" data-preview-file-type="text" >
 
                         <br>
                         <button class="btn btn-primary"> <span class="glyphicon glyphicon-upload" style="margin-right:5px;"></span>Detect Idioms </button>
