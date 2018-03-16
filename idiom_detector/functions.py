@@ -1,4 +1,3 @@
-from .VNAAD_extraction_SVM import Detectidioms
 from .VNAAD_extraction_SVM_best import trainingIdiomDetector
 from .VNAAD_extraction_SVM_input import predictIdiom
 import os

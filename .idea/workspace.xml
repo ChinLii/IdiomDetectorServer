@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ef7b6e-44c6-4053-a856-1e43d88cc93a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/idiom_detector/Templates/result.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/IdiomDetectorServer/urls.py" afterPath="$PROJECT_DIR$/IdiomDetectorServer/urls.py" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/FeatureExtraction.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/Templates/index.html" afterPath="$PROJECT_DIR$/idiom_detector/Templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/VNAA.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/VNAAD.txt" afterPath="$PROJECT_DIR$/idiom_detector/VNAAD.txt" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/VNAAD_extraction.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/VNAAD_extraction_SVM.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/bagofwords_extraction.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/forms.py" afterPath="$PROJECT_DIR$/idiom_detector/forms.py" />
       <change beforePath="$PROJECT_DIR$/idiom_detector/functions.py" afterPath="$PROJECT_DIR$/idiom_detector/functions.py" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/test.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/test_set.txt" afterPath="$PROJECT_DIR$/idiom_detector/test_set.txt" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/uploadFiles/data.txt" afterPath="$PROJECT_DIR$/idiom_detector/uploadFiles/data.txt" />
       <change beforePath="$PROJECT_DIR$/idiom_detector/views.py" afterPath="$PROJECT_DIR$/idiom_detector/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,14 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/idiom_detector/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_set.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_set.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/idiom_detector/test_set.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -130,10 +113,10 @@
       <file leaf-file-name="functions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/idiom_detector/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#46#0" expanded="true" />
+                <element signature="e#0#60#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,18 +141,18 @@
         <option value="$PROJECT_DIR$/IdiomDetectorServer/settings.py" />
         <option value="$PROJECT_DIR$/idiom_detector/forms.py" />
         <option value="$PROJECT_DIR$/idiom_detector/Templates/index.html" />
-        <option value="$PROJECT_DIR$/idiom_detector/functions.py" />
         <option value="$PROJECT_DIR$/IdiomDetectorServer/urls.py" />
         <option value="$PROJECT_DIR$/idiom_detector/Templates/result.html" />
         <option value="$PROJECT_DIR$/idiom_detector/VNAAD_extraction_SVM_input.py" />
-        <option value="$PROJECT_DIR$/idiom_detector/views.py" />
         <option value="$PROJECT_DIR$/idiom_detector/VNAAD_extraction_SVM_best.py" />
+        <option value="$PROJECT_DIR$/idiom_detector/functions.py" />
+        <option value="$PROJECT_DIR$/idiom_detector/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="164" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="240" />
+    <option name="y" value="100" />
     <option name="width" value="1188" />
     <option name="height" value="837" />
   </component>
@@ -200,17 +183,6 @@
               <item name="IdiomDetectorServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdiomDetectorServer" type="462c0819:PsiDirectoryNode" />
               <item name="idiom_detector" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdiomDetectorServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdiomDetectorServer" type="462c0819:PsiDirectoryNode" />
-              <item name="idiom_detector" type="462c0819:PsiDirectoryNode" />
-              <item name="Templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdiomDetectorServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdiomDetectorServer" type="462c0819:PsiDirectoryNode" />
-              <item name="IdiomDetectorServer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,7 +226,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="23" width="1188" height="837" extended-state="1" />
+    <frame x="240" y="100" width="1188" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28963155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -296,9 +268,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -307,7 +277,7 @@
         <state relative-caret-position="1080">
           <caret line="72" column="19" lean-forward="true" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -395,9 +365,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -514,7 +482,7 @@
         <state relative-caret-position="234">
           <caret line="67" column="51" lean-forward="false" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="51" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -524,16 +492,6 @@
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idiom_detector/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -568,16 +526,6 @@
         <state relative-caret-position="75">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idiom_detector/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,6 +577,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idiom_detector/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idiom_detector/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>

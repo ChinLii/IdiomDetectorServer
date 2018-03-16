@@ -9,8 +9,6 @@ from .forms import UploadFileForm
 from .forms import InputForm
 from django.shortcuts import render
 from pip.utils import logging
-
-from idiom_detector.VNAAD_extraction_SVM import Detectidioms
 from .functions import handle_uploaded_file
 from .functions import handle_input_sentence
 
