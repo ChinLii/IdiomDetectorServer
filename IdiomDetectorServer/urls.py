@@ -24,5 +24,6 @@ urlpatterns = [
     url(r'^$',views.index),
     url(r'^training/$',views.training),
     url(r'^successful/$',views.successful),
+    url(r'^result/$',views.result),
 
 ]

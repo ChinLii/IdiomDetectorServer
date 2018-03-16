@@ -1,5 +1,5 @@
 ﻿I	blow_trumpet	unashamedly blowing his own trumpet he also considers that many of the people he selected for management roles in esso are doing a better job than the people before the
-Q	blow_trumpet	lsquo i not terribly good at blowing my own trumpet though. rsquo
+Q	blow_trumpet	 i not terribly good at blowing my own trumpet though. 
 I	blow_trumpet	there is nothing left either in womanpower or funds to devote to blowing our own trumpet so we have been unable to impress you with the extent and importance of our wor
 I	blow_trumpet	when called upon to tell us of the exemplary conditions in his new factories at bournville mr cadbury mdash his looks belying his years and status mdash refused to
 Q	blow_trumpet	if the trumpets of britain had not been blown loud and long from st mary a different myth would have grown giving all the credit to america
@@ -7,7 +7,7 @@ L	blow_trumpet	the referee blew a toy trumpet and harry payne gave the golf club
 Q	blow_trumpet	i do n't like to blow my own trumpet but my better half could eat it to a band playing
 L	blow_trumpet	he offended the king in some way and was summarily hanged appearing since as a shaggy man wearing a great set of stag horns and blowing a trumpet
 I	blow_trumpet	kirsty milne wishes that the bbc arts department would blow its own trumpet
-L	blow_trumpet	lsquo but if the watchman sees the sword coming and does not blow the trumpet to warn the people hellip
+L	blow_trumpet	 but if the watchman sees the sword coming and does not blow the trumpet to warn the people hellip
 I	blow_trumpet	for too long we christians have heard the modern world blowing its own trumpet
 L	blow_trumpet	next morning the trumpets were blown at the north gate and the knight marischal banner hoisted with shouted demands for king edward to appear
 I	blow_trumpet	and we blow our own trumpet somewhere else and sometime else
@@ -17,22 +17,22 @@ I	blow_trumpet	however by the end of july pyramid will be blowing its own trumpe
 Q	blow_trumpet	cj does n't need to blow his own trumpet
 I	blow_trumpet	blowing your own trumpet is n't a very british thing to do so we have to blame it on our germanic streak but gtf really are incredibly efficient
 I	blow_trumpet	merseyside can not blow a national trumpet
-Q	blow_trumpet	i hope by sharing the struggle and vision of the people in both lsquo worlds rsquo that more people will be inspired to lsquo blow the trumpet rsquo which will one
-L	blow_trumpet	then the white rabbit blew his trumpet three times and called out lsquo first witness rsquo
+Q	blow_trumpet	i hope by sharing the struggle and vision of the people in both  worlds  that more people will be inspired to  blow the trumpet  which will one
+L	blow_trumpet	then the white rabbit blew his trumpet three times and called out  first witness 
 I	blow_trumpet	while we promoting my own show and blowing my own trumpet er this afternoon jenny is on for my for me this afternoon
 I	blow_trumpet	we often met people like that who blow their trumpet er pretending they were somebody
 Q	blow_trumpet	most were reluctant defensive or simply hesitant to blow their own trumpet
-I	blow_trumpet	it for this reason i gone against my initial instinct not to blow our own trumpet on this at the risk of provoking more lsquo bad loser rsquo comments from certai
-Q	blow_trumpet	lsquo come on she does n't need you to blow her trumpet. rsquo
-Q	blow_trumpet	lsquo oh well rsquo scornfully lsquo if it just so you can blow your own trumpet hellip rsquo
+I	blow_trumpet	it for this reason i gone against my initial instinct not to blow our own trumpet on this at the risk of provoking more  bad loser  comments from certai
+Q	blow_trumpet	 come on she does n't need you to blow her trumpet. 
+Q	blow_trumpet	 oh well  scornfully  if it just so you can blow your own trumpet hellip 
 I	blow_trumpet	well i think you know i a naturally optimistic sort of person and i i not er sort of blowing my own trumpet here i i i erm look on life with a great deal of
-L	blow_trumpet	garland in the telegraph had drawn a cartoon of a kilted bare-arsed robertson blowing his trumpet circling a walled city full of obvious tories labelled lsquo jeri
+L	blow_trumpet	garland in the telegraph had drawn a cartoon of a kilted bare-arsed robertson blowing his trumpet circling a walled city full of obvious tories labelled  jeri
 I	blow_trumpet	once the vote on europe had been taken an overwhelming majority in favour of the platform motion he had slipped out of the hall pausing only to watch and listen wh
 Q	blow_trumpet	the setting for crawford second children film foundation production blow your own trumpet was a northern mining town and featured peter butterworth well known for
 L	blow_trumpet	an angel hovered over their heads blowing a yellow trumpet
 L	blow_trumpet	the gold letters m o r s encircle the globe and ultimate judgement is depicted in the heavens above where angels blow the last trumpet and christ reigns in glory
 L	blow_trumpet	blowing a trumpet very loudly
-Q	blow_trumpet	lsquo captain fantastic did very well rsquo she agreed her tone a little weary because the young man had not only spent every minute of the previous evening blowing
+Q	blow_trumpet	 captain fantastic did very well  she agreed her tone a little weary because the young man had not only spent every minute of the previous evening blowing
 Q	blow_trumpet	pipe band blows its own trumpet
 I	blow_trumpet	despite a unique record of achievement is recent years he can never be accused of blowing his own trumpet
 I	blow_trumpet	but even the treasury was reluctant to blow a trumpet yesterday because the upturn came entirely from a leap of
@@ -40,33 +40,33 @@ I	blow_trumpet	wendy picton can go one better than blowing her own trumpet
 I	blow_trumpet	though not one to blow his own trumpet
 I	find_foot	the one-year course is only to lay down the foundations of good technical training mdash and it is widely recognised that the course simply pushes the student into the pr
 I	find_foot	it was there for all to see mdash br became less of a corporate business more an overlord for the sectors who were expected to find their own feet with or without govern
-Q	find_foot	i expect it hard for them to find their feet on these shifting sands. rsquo
+Q	find_foot	i expect it hard for them to find their feet on these shifting sands. 
 I	find_foot	finding her feet she immersed herself in her role as a soap sud with all the ease of a small screen veteran
-Q	find_foot	while the are still finding their feet mdash lsquo it like a big dream rsquo says miss pinguli mdash they have already given classmates a taste of albanian hi
+Q	find_foot	while the are still finding their feet mdash  it like a big dream  says miss pinguli mdash they have already given classmates a taste of albanian hi
 I	find_foot	in just a couple of days you find your feet and get that special feeling that you belong in your club
 I	find_foot	democracy is becoming a reality the possessors of new and increasing political power are finding their feet not less abroad than in this country
 Q	find_foot	a young mara finds its feet
-I	find_foot	in fact they often demand their key worker when they may be still finding their feet which is a bit of a pressure on them. rsquo
+I	find_foot	in fact they often demand their key worker when they may be still finding their feet which is a bit of a pressure on them. 
 Q	find_foot	finding your feet
 I	find_foot	no longer the emotive outpourings of a composer just beginning to find his mature compositional feet bernstein uncovers a sinister almost malevolent undercurrent which va
 I	find_foot	factota limited had at last found its feet
 Q	find_foot	i hope you will soon find your feet again
 I	find_foot	then the ambassadors found their feet and were to be seen at table and occasionally with the king special officers
-I	find_foot	i been helping him to find his feet a bit in algiers. rsquo
+I	find_foot	i been helping him to find his feet a bit in algiers. 
 I	find_foot	what will happen as the stations find their feet is tv editor that a selection of new dramas documentaries and entertainment shows mainly from carlton and meridian will
-I	find_foot	and one blessing is that we are n't likely to be saddled with the tag lsquo team of the nineties rsquo mdash which is a real kiss of death mdash while we trying to
-I	find_foot	lsquo anyone coming into a derby is going to find it hard to find their feet rsquo ferguson said
-I	find_foot	lsquo anyone coming into a derby is going to find it hard to find their feet
+I	find_foot	and one blessing is that we are n't likely to be saddled with the tag  team of the nineties  mdash which is a real kiss of death mdash while we trying to
+I	find_foot	 anyone coming into a derby is going to find it hard to find their feet  ferguson said
+I	find_foot	 anyone coming into a derby is going to find it hard to find their feet
 I	find_foot	but cambridge found their feet and took an audacious lead
 I	find_foot	during this period the board has also had to find its feet build up its staff resources to the planned level and concern itself with the production of some weighty discuss
 I	find_foot	even in the case of the large church with a regular new members class this may need to be supplemented by a sponsorship scheme in which the converts are matched with chur
-I	find_foot	lsquo hip hop is rediscovering funk roots it slowly finding its feet as the rave scene dies out
-Q	find_foot	wiping away the blood and finding his feet mayer hissed lsquo i destroy you. rsquo
+I	find_foot	 hip hop is rediscovering funk roots it slowly finding its feet as the rave scene dies out
+Q	find_foot	wiping away the blood and finding his feet mayer hissed  i destroy you. 
 I	find_foot	perhaps because i was involved with other things perhaps because at that time i was still trying to find my feet as a bisexual and felt isolated by straight sisters and ex
-I	find_foot	he admitted last night lsquo i ca n't for the players to find their feet in the premier league. rsquo
+I	find_foot	he admitted last night  i ca n't for the players to find their feet in the premier league. 
 I	find_foot	streamlined jockey michael roberts gave lyric fantasy the chance to find her feet in the early stages but a sudden surge of speed at the furlong marker clinched the money
 I	find_foot	as for walks mdash well barry and clive will help you find your feet so to speak there are twelve which begin locally and are recommended by the ramblers association
-L	find_foot	lsquo not the usual kind of student flat rsquo muttered the marshal surprised to find his feet walking on fitted carpet a thing that only happened to him in the lobb
+L	find_foot	 not the usual kind of student flat  muttered the marshal surprised to find his feet walking on fitted carpet a thing that only happened to him in the lobb
 I	find_foot	new teachers in their first year or so are still very much in the process of finding their feet
 I	find_foot	as the nascent museum beings to find its feet the determined band at pe look forward to more airframes coming their way from the saaf museum and the work on the oxford wil
 I	find_foot	financial assistance and good advice was sought from the local belfast action team in the lower falls/lower shankill area who willingly and readily helped the organisation
@@ -84,16 +84,16 @@ Q	find_foot	lord airlie also went out of his way to help me find my feet
 I	find_foot	new boys were excused fagging for a fortnight until they had found their feet
 Q	find_foot	for a loathsome instant i felt her awkward quivering weight on my back as she found her feet and her voice saying hellip
 I	find_foot	she may have been more assertive for a while as she found her feet but she is remembered mainly for the way she consulted staff and her obvious concern to do the best in e
-I	find_foot	lsquo lots of nice rich friends to give you commissions while you find your feet
+I	find_foot	 lots of nice rich friends to give you commissions while you find your feet
 L	find_foot	meredith lunged out in a desperate attempt to save their contents only to find her feet slipping on the melted snow which had been walked in from outside
-I	find_foot	i had expected you to spend your first week just finding your feet. rsquo
+I	find_foot	i had expected you to spend your first week just finding your feet. 
 L	find_foot	there clergy wives listening eagerly to their husbands superiors would find their feet gripped by apparently supernatural growths from the infernal regions
 L	find_foot	her voice away as with a seemingly effortless movement he found his feet and bounded across the short distance to block her passage
 I	find_foot	it obviously took a while to find my feet with the group but when i had done i really started to enjoy myself
-I	find_foot	lsquo i do n't think mike booker is expecting you until the team leaves for estoril so you have three or four days to find your feet
+I	find_foot	 i do n't think mike booker is expecting you until the team leaves for estoril so you have three or four days to find your feet
 I	find_foot	new democracies have been born struggling against appalling odds to find their feet with hyper-inflation and national rivalries
 I	find_foot	and if there were a proposal to establish a funding council that would best be done in the context of the further education colleges having acquired self-governing status
-I	find_foot	lsquo he is a talented young lad but give him time to find his feet rsquo says martin whose team will be headed by jason plato
+I	find_foot	 he is a talented young lad but give him time to find his feet  says martin whose team will be headed by jason plato
 I	find_foot	in the third round could be fourth seed boris becker who has had a torrid time in the build-up to the french championships but who has a good chance to find his fe
 I	find_foot	as we are small in numbers we can find it as we go for maximum flexibility but i will book us into a lodge for
 I	find_foot	had a bit of difficulty in finding my feet sexually as it were in that although prostitutes were twenty a penny the kind of up-market lovelies that i favoured were hard
@@ -106,7 +106,7 @@ I	find_foot	macartney had a couple of early sniffs at goal but really found his 
 I	get_nod	when it comes to profiles and interviews familiar names usually get the nod over the up-and-coming partly because they are the ones the powers-that-be have heard of and pa
 L	get_nod	and the children got perfunctory nods from marx but he peered intently at bodo who massive arms folded was leaning against the wall
 I	get_nod	fleet/norstar got the nod over the larger bank of boston for two reasons
-I	get_nod	we might get the nod there and stay or we might find nothing going on. rsquo
+I	get_nod	we might get the nod there and stay or we might find nothing going on. 
 I	get_nod	if the university of california proposal gets the nod it will be because of the quality of the science involved bienenstock indicated
 I	get_nod	i like to think beardsley and wright will get the nod and graham does n't get it wrong again
 I	get_nod	prolific winner murlens abbey just gets the nod in a red-hot fosters select stakes at wembley
@@ -128,21 +128,21 @@ Q	get_nod	and i obviously be corrected on that if i er i getting an an affirmati
 I	get_nod	it was always touch and go whether he would be fit to take his place and he only got the nod after coming through a trial game without any problems
 I	get_nod	but ince insists he is fit and is hoping to get the nod from manager graham taylor for his
 I	get_nod	it was always touch and go whether he would be fit to take his place and he only got the nod after coming through a trial game without any problems
-I	get_nod	but kinsey defended his decision by insisting lsquo i got the nod from my touch judge andy cole. rsquo
+I	get_nod	but kinsey defended his decision by insisting  i got the nod from my touch judge andy cole. 
 I	get_nod	however i believe hooper will get the nod
 I	get_nod	however i believe hooper will get the nod
 Q	hit_road	it just from the way it came out i thought you meant you decided to jack it all in and hit the road
-Q	hit_road	lsquo i have to be hitting the road any minute now
+Q	hit_road	 i have to be hitting the road any minute now
 I	hit_road	the marchers had hit the road before
 I	hit_road	with his loyal wife rita and wild child jacqueline he loads up the family trabi affectionately known as george and hits the road to the southern sun leaving his bemused
 I	hit_road	as soon as he was out of the bathroom he put on his tracksuit and hit the road
-Q	hit_road	lsquo for me when you hit the road. rsquo
+Q	hit_road	 for me when you hit the road. 
 I	hit_road	in may the multi-coloured roadshow hit the road on its way to avoniel and andersonstown leisure centres
 I	hit_road	keyboard player mark taylor played a sy
 Q	hit_road	as lee trevino might say here you either hit the greens or hit the road unless you have a ballesteros-type short game to get out of jail often from tight lies to elevated
 I	hit_road	malc closed the shop eventually and we hit the road together once again his mother and father moving in to take care of the boys while we toured from land end to john o'g
 Q	hit_road	taste for claret as fans hit the road
-I	hit_road	that was in a year before charlton hit the road to selhurst and upton parks and two years before walsh signed on and decided to live in se7 because lsquo i was pro
+I	hit_road	that was in a year before charlton hit the road to selhurst and upton parks and two years before walsh signed on and decided to live in se7 because  i was pro
 Q	hit_road	when you hit the road this is the man you have to beat
 Q	hit_road	so next time you hit the road make sure it does n't hit back
 I	hit_road	banned motorist andy lewis
@@ -153,8 +153,8 @@ I	hit_road	the swinging hit the road in ready steady go the south bank centre to
 I	hit_road	thelma amp louise mdash driven to distraction by their oh-so-ordinary lives geena davis and susan sarandon hit the road with a vengeance
 I	hit_road	and i can get round to doing that this week i started trying on friday but most of them were of course hitting the road
 L	hit_road	to hit this road they had to go north a little from fort augustus and then swing to the west
-Q	hit_road	lsquo when do we hit the road again rsquo
-Q	hit_road	lsquo is n't it about time we hit the road rsquo
+Q	hit_road	 when do we hit the road again 
+Q	hit_road	 is n't it about time we hit the road 
 L	hit_road	gina coulstock stumbled fell heavily and was knocked out when she hit the road
 I	hit_road	the ulster society are about to hit the road on one of their magical history tours
 Q	hit_road	melanie and her trio are hitting the road again
@@ -162,7 +162,7 @@ I	hit_road	after a fantastic send off by george mcguire and his staff at sonning
 Q	hit_road	i had one call to make before i hit the road
 Q	hit_road	doogie allowed himself a small smile of satisfaction as shifty-eyes hit the road then he turned and grabbed pointy-beard tie
 L	hit_road	they had forgotten to tell the rest of my body about this and as a result i slumped out of armstrong hitting the road with my right shoulder having just remembered in time
-I	hit_road	lsquo i crash in the back of the van for a couple of hours before hitting the road i too easy a target for the cops in that thing and i over the limit. rsquo
+I	hit_road	 i crash in the back of the van for a couple of hours before hitting the road i too easy a target for the cops in that thing and i over the limit. 
 Q	hit_road	hitting the road at p amp o road tanks
 Q	hit_road	this month wavelength hits the road with p amp o road tanks
 I	hit_road	but on one of these days and you hit the road there been an accident somebody dug the road up there something wrong and you in a traffic jam
@@ -177,18 +177,18 @@ I	hit_road	a roadshow to bring expert advice to the doorsteps of businesses hits
 I	hit_road	former journalist john brook has hit the road to pursue his love of folk music
 Q	hit_road	a newsletter for taxi-drivers hit the road this week
 I	hit_road	defeat would n't be too clever either when newcastle hit the dreaded road again at port vale this saturday
-L	hit_road	lsquo the bullets were hitting the road and i could see them coming towards me a lot faster than i was able to reverse. rsquo
-I	hit_road	steelworks lsquo takeaway rsquo hits the road for china
+L	hit_road	 the bullets were hitting the road and i could see them coming towards me a lot faster than i was able to reverse. 
+I	hit_road	steelworks  takeaway  hits the road for china
 Q	hit_road	teesside display hits the road
 L	hit_roof	henderson did get a little help from his friends in particular a massive third-inning home run from jose canseco on saturday that came within rows of hitting the r
-I	hit_roof	lsquo well rsquo came the reply from adam lsquo he said that if you stayed longer than a week he hit the roof rsquo
+I	hit_roof	 well  came the reply from adam  he said that if you stayed longer than a week he hit the roof 
 I	hit_roof	the foreman had naturally hit the roof over the loss of thirty minutes production which would pull down his departmental output and efficiency target and had roundly repri
 I	hit_roof	the us components divisions would hit the goddamned roof if that proposal was ever given the light of day
-I	hit_roof	one of minister patten officials was now quoted by the observer as fearing that lsquo ripa will hit the roof when he sees these documents
+I	hit_roof	one of minister patten officials was now quoted by the observer as fearing that  ripa will hit the roof when he sees these documents
 L	hit_roof	two shells hit the roof and one exploded in the corridor during the night
 L	hit_roof	a year and a half earlier she had lost her previous camp home when a shell fired from the israeli-armed lebanese christian enclave to the south hit the roof
 I	hit_roof	he hit the roof when the left to set up home in a bedsit
-Q	hit_roof	but mortimer said that if it had been him he would have hit the roof. rsquo
+Q	hit_roof	but mortimer said that if it had been him he would have hit the roof. 
 L	hit_roof	the last thing he remembered before falling asleep was the patter patter patter of it gently and rhythmically hitting the tiled roof above his head
 Q	hit_roof	tarmac hit roof
 Q	hit_roof	home cover hits the roof
@@ -197,30 +197,30 @@ L	hit_roof	many a time had preston youthful slumbers been disturbed by the sound
 Q	hit_roof	he hit the roof as soon as peter came in
 I	hit_roof	when he reported this encounter to control donleavy hit the roof and summoned him to frankfurt
 I	hit_roof	but jackson a des o'connor impersonator really hit the roof when his karaoke machine was ordered to be confiscated while he was freed on magistrates at b
-Q	hit_roof	but it seems i been a bit blas‚ about pregnancy being lsquo a perfectly natural physical state rsquo mdash dear dr newne hit his surgery roof when i casually mentio
+Q	hit_roof	but it seems i been a bit blas‚ about pregnancy being  a perfectly natural physical state  mdash dear dr newne hit his surgery roof when i casually mentio
 Q	hit_roof	hitting the roof hellip
 Q	hit_roof	hitting the roof tom roberts outside his home with the two fiestas embedded in a pile o f debris swept along by the raging north wales floodwaters picture jeff pitt
-L	hit_roof	when the blood hit the roof of the car i realised it was serious rsquo he said
-I	hit_roof	< > i have no doubt wha did i not tell you about the fact that i hit the roof when he said that < pause > she has said that when he was twenty one she was going to buy hi
-Q	hit_roof	< pause > well brenda < voice quality laughing > you can tell i hit the roof < end of voice quality >
-Q	hit_roof	< unclear > before my da hits the roof
+L	hit_roof	when the blood hit the roof of the car i realised it was serious  he said
+I	hit_roof	 i have no doubt wha did i not tell you about the fact that i hit the roof when he said that  she has said that when he was twenty one she was going to buy hi
+Q	hit_roof	 well brenda < voice quality ing > you can tell i hit the roof < end of voice quality >
+Q	hit_roof	 before my da hits the roof
 Q	hit_roof	i not gon hit the roof but you not well it not right
-I	hit_roof	yeah i tell you even ian now is very < unclear > about paying bills and and barry i say hit the roof when he heard that one < pause >
-Q	hit_roof	< pause > well i aye he just hit the roof i got fucking twenty five or something
-I	hit_roof	< > nah i think paula might hit the roof < > if you start ironing
-L	hit_roof	well he chips it properly up in the air but it like no power there so it just hit the roof < pause > and < pause > like nicky < gap desc=name reason=anonymization > just pu
+I	hit_roof	yeah i tell you even ian now is very  about paying bills and and barry i say hit the roof when he heard that one 
+Q	hit_roof	 well i aye he just hit the roof i got fucking twenty five or something
+I	hit_roof	 nah i think paula might hit the roof  if you start ironing
+L	hit_roof	well he chips it properly up in the air but it like no power there so it just hit the roof  and  like nicky < gap desc=name reason=anonymization > just pu
 I	kick_heel	the anthem flower-presentation long walk and interminable announcements all took place after the teams had taken the field where they were forced to kick their heels in
 I	kick_heel	davidson added that somerset has about four cases to hear next week which means that chilcott is left kicking his heels for another seven days
 I	kick_heel	dodge and wells return in place of alan warwood and adey marriott while jez harris who also played in last weekend hefty win over coventry when cusworth kicked his heels
-Q	kick_heel	lsquo he and his friends will be kicking their heels in the pool till we have a few casualties
-L	kick_heel	lsquo once stalin made me dance the gopak squat down on my haunches and kick out my heels rsquo writes khrushchev an image hard to call up in view of his shape but m
+Q	kick_heel	 he and his friends will be kicking their heels in the pool till we have a few casualties
+L	kick_heel	 once stalin made me dance the gopak squat down on my haunches and kick out my heels  writes khrushchev an image hard to call up in view of his shape but m
 L	kick_heel	surkov and i sprawled on the twin beds rozanov sat on the floor his back against the drawn curtains masha in a comfortable chair kicked off her high heels and drew her
 Q	kick_heel	i kicked my heels and ran my eye along the ruff of mountains surrounding cuzco like a tongue over broken teeth
 L	kick_heel	dulcie unduly skittish kicked up her heels every time that dotty approached her
 I	kick_heel	they had stayed in the abbey kicking their heels and helping with administrative tasks to pay their way now one of them was only too happy to take the letter and ride sou
 I	kick_heel	eric cantona will have to kick his heels on the manchester united sidelines if mark hughes and brian mcclair have their way
 I	kick_heel	this is your chance to kick up your heels and support this group of anonymous women artists
-I	kick_heel	one of walker early dispatches written as the team kicked their heels in some god-forsaken spot in tibet for bureaucracy began memorably lsquo this is the wor
+I	kick_heel	one of walker early dispatches written as the team kicked their heels in some god-forsaken spot in tibet for bureaucracy began memorably  this is the wor
 I	kick_heel	if the birth of her child was to take place in london as had been arranged then presumably for some weeks beforehand she would have to remain in the harley street flat ki
 Q	kick_heel	it is true that the government is rarely defeated in the commons while the lords can kick their heels by voting against them
 I	kick_heel	they will play half a game each with new signing eric cantona and one of them will be picked to line up alongside the frenchman in the manchester derby tomorrow week mdas
@@ -231,10 +231,10 @@ I	kick_heel	but nothing came of it and he is still kicking his heels at bramall 
 I	kick_heel	while he had been kicking his heels yesterday he had spent an hour in a tiny bookshop in curzon street and had come away with a paperback edition of the parsons rosenberg a
 L	kick_heel	the clash of steel jarred up his arm then he kicked his heels back to force the stallion towards the road
 L	kick_heel	he assumed that by now the allied generals must be aware of the french advance but it was still his duty to report what he had seen and so he kicked back his heels waved
-Q	kick_heel	lsquo either to stay in their insufferable homes or to kick up their heels in the streets hellip
+Q	kick_heel	 either to stay in their insufferable homes or to kick up their heels in the streets hellip
 I	kick_heel	my son i began to fear was still kicking his heels on a fog-bound airport in birmingham
 I	kick_heel	the working-class delegates are not left to kick their heels in an anteroom but are ushered into the salon it is a london house which lord valentine evidently occupies
-I	kick_heel	in the massage parlour at lunchtime molly lugg told me her son was now unemployed because his boss trevor proby was lsquo in chains rsquo and she would be grateful if
+I	kick_heel	in the massage parlour at lunchtime molly lugg told me her son was now unemployed because his boss trevor proby was  in chains  and she would be grateful if
 L	kick_heel	he kicked his filthy heels in the air
 L	kick_heel	two cupids clutched the bows and kicked fat heels
 Q	kick_heel	but perhaps you too are kicking up your heels elsewhere by now
@@ -249,19 +249,19 @@ I	kick_heel	the rock-hard defender had expected to be kicking his heels at the s
 I	kick_heel	the former dublin captain sent off after only four minutes following an off-the-ball incident with donegal midfielder brian murray could be left kicking his heels in frus
 I	kick_heel	even the local reporter had to kick his heels at the lich-gate with the few inquisitive neighbours who had gathered
 I	kick_heel	then we go and see how downes is making out mdash do him good to kick his heels in a cell for half an hour
-Q	kick_heel	lsquo so rsquo tuppe sat on the portmanteau kicking his heels
-I	kick_heel	lsquo does you good to kick up your heels now and then and say lsquo to hell with everything rsquo
+Q	kick_heel	 so  tuppe sat on the portmanteau kicking his heels
+I	kick_heel	 does you good to kick up your heels now and then and say  to hell with everything 
 I	kick_heel	swindon town are still kicking their heels of course hellip their cup game at queens park rangers is on monday night hellip
 I	kick_heel	a few short years ago he stood unrivalled as the best player in the country but a series of niggling injuries left him kicking his heels in frustration
 I	kick_heel	promotion and relegation issues are invariably not settled before the last week of the season so there would be no point in clubs signing players only for them to kick the
 I	kick_heel	and it even more noticeable once you go into the the year twelve that first twelve months is crucial if you just kick your heels and do nothing you find it very <
 I	lose_head	a sport like a new spouse can be so infatuated with its glamourous partner that it loses its head
 I	lose_head	after two years of bingeing up baldwin and bringing neville along to find that even neville loses his head and sells the pass in the first fortnight of serious crisis. rsq
-I	lose_head	since enemy planes had been over the village lsquo they have all lost their heads rsquo
+I	lose_head	since enemy planes had been over the village  they have all lost their heads 
 L	lose_head	they at once proceeded to make a perambulation without authorization and publicly proclaimed in the city of york that any forester who entered the forest would lose his he
 I	lose_head	as a player souness has a highly flammable temper when he loses the head something snaps
 Q	lose_head	buckingham lost his head over the matter
-L	lose_head	the lsquo church and king rsquo front however now that louis xvi was held in paris and soon to lose his head regarded the date with repugnance
+L	lose_head	the  church and king  front however now that louis xvi was held in paris and soon to lose his head regarded the date with repugnance
 Q	lose_head	many a prey species can afford to dispense with its but can never afford to lose its head
 L	lose_head	this looks as eye-like to the predator as the real eye and gives the prey a fifty-fifty chance of losing its head
 I	lose_head	i then walked across to the photographers and lost my temper lost my head
@@ -269,9 +269,9 @@ L	lose_head	though he ultimately lost his head under the executioner axe whilst 
 L	lose_head	more than one lost his head as a consequence of making what were alleged to be seditious or treacherous statements in the house of commons
 L	lose_head	although the drawing made it back to civilisation the pickled head along with the rest of the ship was lost
 Q	lose_head	losing their heads
-Q	lose_head	the trouble was he lost his head. rsquo
-Q	lose_head	lsquo we must n't lose our heads rsquo said masklin
-L	lose_head	lsquo but it always a bit of a blow to lose a head of chambers. rsquo
+Q	lose_head	the trouble was he lost his head. 
+Q	lose_head	 we must n't lose our heads  said masklin
+L	lose_head	 but it always a bit of a blow to lose a head of chambers. 
 I	lose_head	impulsive fergie lost her head again yesterday
 L	lose_head	the tears dribbled on her face and made bright lines across the greyness of her cheeks and then her head was lost in her hands
 L	lose_head	ibm has lost its head of worldwide database design and strategy and the man responsible for db
@@ -282,7 +282,7 @@ I	lose_head	she turned on constanza constanza lost her head she struck back she 
 Q	lose_head	he had lost his heart and was in danger of losing his head
 Q	lose_head	there was always something around the corner if you did n't lose your head
 L	lose_head	zeus head is lost but seems to have been turned to his proper right and on this the side of good omen one would expect pelops to stand as he does in fig
-I	lose_head	finch lost his head and said to this woman whose fastidiousness he most revered lsquo you would n't lie about your own age that the thing. rsquo
+I	lose_head	finch lost his head and said to this woman whose fastidiousness he most revered  you would n't lie about your own age that the thing. 
 Q	lose_head	player i should concentrate on not losing your heads
 I	lose_head	fred i am worried with all that money you wo n't lose your head there are a lot of clever dishonest people she means women he said about these days i brought you up as
 Q	lose_head	he made a sort of feeble pretence of being afraid that he might lose his head
@@ -292,41 +292,41 @@ I	lose_head	maybe it a pity that people have n't lost the head a bit that they h
 I	lose_head	on the other hand pinkie seemed to have lost his head to a certain extent perhaps at the prospect of making his mark by bringing in something novel in the way of business
 L	lose_head	that was a very nice bull i shot but i lost his head hellip
 I	lose_head	they said he lost his head and started shooting mdash
-Q	lose_head	lsquo orpheus of course lost his head rsquo said the superintendent ruminatively the scottish accent now quite discernible
+Q	lose_head	 orpheus of course lost his head  said the superintendent ruminatively the scottish accent now quite discernible
 I	lose_head	i must be losing my head she thought
-Q	lose_head	lsquo no mdash anne would have lost her head in decent privacy within the walls on tower green
+Q	lose_head	 no mdash anne would have lost her head in decent privacy within the walls on tower green
 L	lose_head	and yet like anne boleyn all those centuries before her she knew she was in imminent danger of losing her head hellip
 L	lose_head	within seconds her blonde head was lost in the crowds
-I	lose_head	she lost her head utterly and decided to marry me instead rsquo
+I	lose_head	she lost her head utterly and decided to marry me instead 
 I	lose_head	for heaven sake shae she told herself desperately he being nice to you but do n't lose your head over it
-Q	lose_head	this is another problem which surfaced from engineering attempts but also makes itself evident in authorial blunders mdash the civil defence poster caption lsquo when a
+Q	lose_head	this is another problem which surfaced from engineering attempts but also makes itself evident in authorial blunders mdash the civil defence poster caption  when a
 Q	lose_head	do n't lose your head ellie she warned herself
 L	lose_head	this does n't mean that you have to spend a fortune on tools but beware of cheap spanners and screwdrivers which may not be strong enough for the job or of cheap hammers wh
 L	lose_head	unfortunately the dummy has literally lost his head after frank backed the car over it and it is being fixed
 Q	lose_head	george lansbury speaking at shoreditch town hall in january
 L	lose_head	your mentor might lose his head on the block or be handed a p
-Q	lose_head	lsquo it very easy to lose your head in these situations. rsquo
+Q	lose_head	 it very easy to lose your head in these situations. 
 Q	lose_head	but this time she knew she was in no danger of losing her head
 Q	lose_head	it was weeks since the night of thunder and lightning and losing her head in st lucia
-I	lose_head	lsquo but if you afraid i lose my head once we alone together by all means bring a chaperon. rsquo
-I	lose_head	lsquo i got you on the bed and just lost my head completely
-I	lose_head	he had come home on march and referring to sutherland had told her lsquo that bastard had the cheek to lose the head with me because it did not work
+I	lose_head	 but if you afraid i lose my head once we alone together by all means bring a chaperon. 
+I	lose_head	 i got you on the bed and just lost my head completely
+I	lose_head	he had come home on march and referring to sutherland had told her  that bastard had the cheek to lose the head with me because it did not work
 Q	lose_head	he completely lost the head
-L	lose_head	the incredible part is he sued the fan manufacturer on the basis that there was no warning < unclear > through saying you know if you toss a small child up towards this it
+L	lose_head	the incredible part is he sued the fan manufacturer on the basis that there was no warning  through saying you know if you toss a small child up towards this it
 Q	lose_head	gabriel had lost her head
 I	lose_head	liverpool showed enough in moscow before losing their heads to indicate that the task is not beyond them
-Q	lose_head	< > he lost his head < >
+Q	lose_head	 he lost his head 
 Q	make_face	he made a face
 L	make_face	the undertaker then takes over makes up our faces and carries the coffin to the crematorium
 Q	make_face	the meadow began to mushroom with tents and huts and the street theatre erupted into an explosion of living history the performers flinging themselves to the ground and th
 L	make_face	at six and a half i loved making up my face and at ten the baby book recorded i wanted to be a dress designer
 L	make_face	it showed a girl making up her face not to catch a boy just to try out different looks some pretty but some not
-Q	make_face	doone said a shade heavily lsquo mr kendall always helpful rsquo and perkin made a face and went off to join mackie
+Q	make_face	doone said a shade heavily  mr kendall always helpful  and perkin made a face and went off to join mackie
 Q	make_face	sir robin day realising that drastic measures were called for started to make funny faces
 Q	make_face	in nice he got up early and went to survage room and until midday then took a swig of alcohol made a face and returned to the canvas
 L	make_face	list all the characteristics which make up your inner face mdash how do you perceive yourself
 I	make_face	she did likewise then coughed and made a face
-I	make_face	you could n't say lsquo he made faces at me and swore at me. rsquo
+I	make_face	you could n't say  he made faces at me and swore at me. 
 I	make_face	i made a face at my face and it made a face back at me
 I	make_face	she crossed her eyes and made a face
 L	make_face	cut the tomatoes in half and then make faces on them with pieces of cheese or egg
@@ -336,10 +336,10 @@ I	make_face	hank made a face at her plump back disappearing through the kitchen 
 L	make_face	cold anger made bodie face a mask of hatred an evil demonic mask reflecting well the bitter anger inside
 L	make_face	babies and boredom boredom and babies when the whisky ran out we made up our faces exchanged clothes did our hair and the afternoon still yawned ahead
 L	make_face	bull after you made up your face apply a very short spray of evian from arm length to fix
-Q	make_face	she made a face now as she added lsquo annabel seemed to think that was generous. rsquo
+Q	make_face	she made a face now as she added  annabel seemed to think that was generous. 
 Q	make_face	she read a few lines then made a face
 Q	make_face	she made a face
-I	make_face	i shone my torch at him and he made a face like he had just chewed a lemon lsquo i going to have to pull from higher up mdash i guess it the knot. rsquo
+I	make_face	i shone my torch at him and he made a face like he had just chewed a lemon  i going to have to pull from higher up mdash i guess it the knot. 
 I	make_face	anna made a face at it before she turned away
 L	make_face	he could n't quite make out the face but he was certain he did n't know the caller which was unusual
 I	make_face	the child was chuckling as billy made faces at her and when he looked away rachel little face seemed to beg his attention
@@ -347,7 +347,7 @@ I	make_face	most of them did nothing about it but hurried on some scowling one a
 Q	make_face	i watched her sipping at the stuff making faces
 Q	make_face	she made a face
 Q	make_face	and jean-claude made a face and described a gruel made from rye bread
-I	make_face	even now as she smiled at her son antics mdash he was laughing and clapping his little hands together and making mischievous faces at cissie who adored him mdash me
+I	make_face	even now as she smiled at her son antics mdash he was ing and clapping his little hands together and making mischievous faces at cissie who adored him mdash me
 I	make_face	she made a face at it and thrust it away
 Q	make_face	katz made a face
 Q	make_face	alexei made a face
@@ -357,7 +357,7 @@ Q	make_face	c'zinsit made a face
 Q	make_face	burun made a face but either jagatan failed to notice or he did not care
 Q	make_face	she made a face
 Q	make_face	he made a face
-I	make_face	ace you and benny continue with what you doing until the marines arrive in the morning and please stop making that face. rsquo
+I	make_face	ace you and benny continue with what you doing until the marines arrive in the morning and please stop making that face. 
 I	make_face	and jed took another look around and made a face that suggested mild indifference lying over mild disapproval
 I	make_face	do you think bach made funny faces and giggled when he wrote that
 Q	make_face	she made a funny face
@@ -373,10 +373,10 @@ Q	make_face	suragai made a face
 I	make_face	they act a lot sometimes i see them practising in front of mirrors making faces and trying out their voices
 Q	make_face	she made a slight face
 Q	make_face	cati made a face seized her brother hand
-I	make_face	she made a funny face gave a snorting sort of laugh
+I	make_face	she made a funny face gave a snorting sort of 
 I	make_face	polly made a face at his back then followed him
 Q	make_face	she made a wry face
-L	make_face	lsquo she look as alive as you or me once we packed her and made up her face rsquo the embalmer reassured him again
+L	make_face	 she look as alive as you or me once we packed her and made up her face  the embalmer reassured him again
 Q	make_face	mandeville made a face
 Q	make_face	the friar made a face
 Q	make_face	the priest made a face
@@ -384,14 +384,14 @@ Q	make_face	dame catherine made a face
 Q	make_face	he picked up a gin and tonic from the same tray where belinda had found hers sipped it and made a face
 I	make_face	the pregnant woman having just made a face at the taste of the spicy chicken wings just as belinda had done was about to take a sip of greg very strong gin and tonic
 Q	make_face	pinning up her wayward curls lissa made a face in the steam-coated bathroom mirror
-Q	make_face	lsquo all of it rsquo he added firmly when she sipped and made a face
+Q	make_face	 all of it  he added firmly when she sipped and made a face
 I	make_face	she snuggled under the sheets and maggie made a wry face her hopes dying
 I	make_face	he makes a face like a little boy who has been very bad
 L	make_face	his eyes roved her features as if he was recalling every item of the lines and planes that made up her face
 I	make_face	she made a face at his back but her expression quickly changed to concern when she caught sight of his arm
 Q	make_face	he made a face
 Q	make_face	she sipped it and made a face
-I	make_face	mrs cartwright made a face and said lsquo such appetites rsquo in a disapproving tone of voice
+I	make_face	mrs cartwright made a face and said  such appetites  in a disapproving tone of voice
 Q	make_face	he made a face
 Q	make_face	mallachy made a face
 Q	make_face	laura made a face
@@ -417,12 +417,12 @@ Q	make_face	she made a wry face
 Q	make_face	the old woman made a face
 Q	make_face	the old woman made a face
 Q	make_face	trish made a face as she poured herself coffee
-Q	make_face	lsquo after months of no one coming near last week a team of men arrived and spent days walking around and surveying so mdash rsquo she made a face lsquo mdash i
+Q	make_face	 after months of no one coming near last week a team of men arrived and spent days walking around and surveying so mdash  she made a face  mdash i
 I	make_face	she made a face at it and buried her nose in a bestseller all about powerful families
 Q	make_face	cranston stared across at athelstan and made a face
 Q	make_face	cranston made a face at athelstan
-Q	make_face	< pause > < laugh > oh you do make funny faces little girl
-Q	make_face	< > she does make < > funny faces does n't she
+Q	make_face	  oh you do make funny faces little girl
+Q	make_face	 she does make  funny faces does n't she
 Q	make_face	< voice quality singing > if you want to be happy and have a happy face then spread a little joy around and then there is just one way make a face make a face make it as h
 Q	make_pile	there loads of stuff round the benches and he makes quite a pile after a while
 L	make_pile	corduroy has always been the poor man velvet its pile is made of cotton rather than silk or satin and by the eighteenth century it was being worn all over europe not
@@ -432,7 +432,7 @@ L	make_pile	with a new automatic slewing facility swift lift claims its latest e
 L	make_pile	forgetting their purpose they collected last year cones and made a pile of them
 I	make_pile	were they as has been asserted in large measure recruited from chapmen who had made their pile mdash new men in the full sense of the phrase or were they as some more
 L	make_pile	place one round on another to make four piles
-I	make_pile	his appetite for fights and of course making money is such that he wants to make his pile as quickly as possible and get out. rsquo
+I	make_pile	his appetite for fights and of course making money is such that he wants to make his pile as quickly as possible and get out. 
 I	make_pile	some have been classics of their genre some of our reggae and c amp w compilations for instance some have captured however controversially the spirit of the age and s
 I	make_pile	yet many of them share mr mukhametshin problem making the first pile of cash was quick and relatively easy but becoming a corporate tycoon mdash which usually involve
 I	make_pile	mr cliburn who was born in shreveport louisiana into a family that made its pile from oil has been able to retire to a vast mansion
@@ -450,19 +450,19 @@ L	make_pile	the towelling prepared she made a neat pile of it and then went over
 L	make_pile	he was never going to let her forget she was only here on sufferance robbie brooded as she made piles of sandwiches and brewed tea
 L	make_pile	she was making a nice neat pile of the stuff she cut down while she made a right mess of the pathways i so carefully set up
 I	make_pile	emigrants mdash what proportion of them we do not know mdash dreamed of making their pile abroad and returning home rich and respected to their native villages
-L	make_pile	lsquo they laid cardboard sheets meticulously and made small piles of combustible material to start the fire
+L	make_pile	 they laid cardboard sheets meticulously and made small piles of combustible material to start the fire
 Q	make_pile	made a big pile like patch like that you know
-Q	pull_leg	lsquo it all right i only pulling your leg. rsquo
+Q	pull_leg	 it all right i only pulling your leg. 
 L	pull_leg	the gluteus maximus muscle in the buttocks makes it possible to pull the legs back push the hips forward and stand up straight
 Q	pull_leg	i think she pulling my leg so i ask her again
 L	pull_leg	i look at the false leg for a bit while he pulls up his trouser leg
 I	pull_leg	a friend had told her that they never took them off but she had thought that he was pulling her leg
-Q	pull_leg	lsquo i pull your legs. rsquo
+Q	pull_leg	 i pull your legs. 
 L	pull_leg	you have to pull my legs
 I	pull_leg	clair george who recorded the conversation in his usual bombastic way noticed a twinkle in casey eye as he said that and wondered if his leg was being pulled
-Q	pull_leg	lsquo you pulling my leg. rsquo
-Q	pull_leg	tell me you only pulling my leg rsquo
-Q	pull_leg	i was only pulling your leg rsquo
+Q	pull_leg	 you pulling my leg. 
+Q	pull_leg	tell me you only pulling my leg 
+Q	pull_leg	i was only pulling your leg 
 Q	pull_leg	are you pulling my leg
 L	pull_leg	it is quite legal to go out into the countryside find a hedgehog and pull off its legs one by one
 I	pull_leg	pulling their leg can come later if and when rapport has been established
@@ -487,21 +487,21 @@ L	pull_leg	take hold of your top leg by the ankle and pull back the leg as far a
 L	pull_leg	take hold of your top leg by the ankle and pull back the leg as far as possible without straining
 L	pull_leg	apparently david sole uses his free arm to pull his opponent legs from under him thereby causing the scrum to collapse and invariably gaining a penalty
 I	pull_leg	the other children pulled his leg and generally teased him about what he had seen but the child strenuously defended his story somehow the fun had gone out of the adventure
-Q	pull_leg	lsquo you pulling my leg rsquo
-I	pull_leg	that quip could get you recommended to the witless corps brother rsquo the speaker put in lsquo oh i was only pulling her leg
-Q	pull_leg	lsquo i said i was only pulling your leg. rsquo
+Q	pull_leg	 you pulling my leg 
+I	pull_leg	that quip could get you recommended to the witless corps brother  the speaker put in  oh i was only pulling her leg
+Q	pull_leg	 i said i was only pulling your leg. 
 Q	pull_leg	she was pulling his leg
 I	pull_leg	for wisecrackers have been pulling their legs unmercifully ever since the sex and sangria saga hit the airwaves
 L	pull_leg	we tried to pull the leg up so that he would n't put so much weight on it but then he only found it even harder to walk straight
 L	pull_leg	placing the doll on her lap she pulled the legs off
 Q	pull_leg	john pulled his sister leg
-L	pull_leg	he did me first and as usual stepped over my mattress to brian who suddenly snarled lsquo do n't you pull my leg i not an animal. rsquo
+L	pull_leg	he did me first and as usual stepped over my mattress to brian who suddenly snarled  do n't you pull my leg i not an animal. 
 L	pull_leg	i pulled its short legs hard
 L	pull_leg	she tried her legs next and they moved a bit within the straps but her boots prevented her from pulling her legs through the loops
 Q	pull_leg	i tried to get him to return my smile to confess that he had been pulling my leg but his brooding face was drained of humour
 L	pull_leg	he clasped and unclasped his wiry hands two or three times as though wringing out a rag pulled his legs on to the bed sat back and replied in a raucous whisper
-L	pull_leg	lsquo the could n't quite pull off his arms and legs so they helping them. rsquo
-I	pull_leg	she described the americans on the moon satellites and space travel and his eyes widened with delighted wonder like a child as he said lsquo you pulling my leg
+L	pull_leg	 the could n't quite pull off his arms and legs so they helping them. 
+I	pull_leg	she described the americans on the moon satellites and space travel and his eyes widened with delighted wonder like a child as he said  you pulling my leg
 L	pull_leg	turn away swing the arms and club and then pull the body and legs through
 L	pull_leg	the feeling is that the clubhead gets through beyond impact and literally does pull the right foot and right leg on through to make a finish
 L	pull_leg	it was just the right length to stretch taut pulling the leg slightly back
@@ -509,23 +509,23 @@ L	pull_leg	pull the left leg across the body to the right and pivot on the balls
 L	pull_leg	the axe kick begin to pull back the leg
 L	pull_leg	your partner standing behind you pulls your leg towards him gently
 I	pull_leg	never make your students feel stupid or ignorant if you want to make a joke at a student expense that all right as long as he [ dos n't ] does n't mind his leg being
-Q	pull_leg	lsquo they used to pull my leg but once they had a go they soon changed their minds. rsquo
+Q	pull_leg	 they used to pull my leg but once they had a go they soon changed their minds. 
 I	pull_leg	she thought he was probably pulling her leg but would n't actually have laid money on it mdash and it was there seated at the bar that donal finally found her
-Q	pull_leg	lsquo you pulling my leg rsquo
-Q	pull_leg	lsquo it all right robbie i was pulling your leg
+Q	pull_leg	 you pulling my leg 
+Q	pull_leg	 it all right robbie i was pulling your leg
 I	pull_leg	chatterton pulled their legs slightly and said they had better be careful not to get on the wrong side of you again and glastonbury did n't know what the hell anyone was talk
 L	pull_leg	boys and girls and women that would groan to see a child pull off an insect leg all read of war the best amusement of our morning meal
 L	pull_leg	i scuttered around until i was facing the doors and pulled my legs in just as they opened fully
-Q	pull_leg	you pulling my leg rsquo
-L	pull_leg	lsquo let me see mdash sit on the couch and pull up your trouser leg
+Q	pull_leg	you pulling my leg 
+L	pull_leg	 let me see mdash sit on the couch and pull up your trouser leg
 L	pull_leg	he showed outstanding bravery pulling his legs up until the very last minute
 L	pull_leg	i tried to get up but my legs were pulled from under me and i was kicked by my opponent
 Q	pull_leg	he was only pulling your leg
-Q	pull_leg	< laugh > oh dear they all use to pull my blue leg when i was with them working oh < laugh > old sergeant name his name was he was the m section maintenance section in the <
+Q	pull_leg	 oh dear they all use to pull my blue leg when i was with them working oh  old sergeant name his name was he was the m section maintenance section in the <
 Q	pull_leg	and so of course they started pulling his leg then see
-Q	pull_leg	well i said i think he was pulling your leg < laugh >
-Q	pull_leg	you do n't have to say that but we all < unclear > you know you you pulling their leg the whole time okay
-L	pull_plug	lsquo d'you know because so many people switch off their tvs by remote control instead of pulling out the plug they go on using electricity the same in one night that wo
+Q	pull_leg	well i said i think he was pulling your leg 
+Q	pull_leg	you do n't have to say that but we all  you know you you pulling their leg the whole time okay
+L	pull_plug	 d'you know because so many people switch off their tvs by remote control instead of pulling out the plug they go on using electricity the same in one night that wo
 I	pull_plug	this would entitle them to sack eurotunnel management bring in new equity participation and pull the plug on the œ
 Q	pull_plug	why itv are pulling plugs neil wilson looks behind the screens at the changing picture of televised sport
 Q	pull_plug	the banks can pull the plug
@@ -535,9 +535,9 @@ I	pull_plug	the banks can technically pull the plug on eurotunnel
 L	pull_plug	mckenzie tried to push her head under water but she pulled out the plug
 Q	pull_plug	which was something of a racket plus bazooka joe kept on pulling the plugs on us trying to get us off the stage
 Q	pull_plug	there was a huge row within the owen family and for a while it looked as if the plug would be pulled immediately
-I	pull_plug	it was not for the government to pull the plug on a venture which was running and had cost mr murdoch lsquo vast amounts of money rsquo
+I	pull_plug	it was not for the government to pull the plug on a venture which was running and had cost mr murdoch  vast amounts of money 
 I	pull_plug	bankruptcies mostly property-related totalled
-L	pull_plug	lsquo you switch the refrigerator knob to zero you pull out the plug and you put a bowl of boiling water inside rsquo he explained sweetly
+L	pull_plug	 you switch the refrigerator knob to zero you pull out the plug and you put a bowl of boiling water inside  he explained sweetly
 L	pull_plug	someone gets strangled in the wire and pulls out the plug
 I	pull_plug	art sales when the bank pulls the plug
 I	pull_plug	bt told to pull the plug on chatlines
@@ -545,16 +545,16 @@ I	pull_plug	british telecom was ordered to pull the plug on chatline services la
 I	pull_plug	earlier sir bryan office had been forced to withdraw an announcement about the shutdown decision because of the legal challenge but he later issued the formal order to b
 L	pull_plug	with less than an hour of daylight remaining he carried a flashlight mdash not that it would be of much help with the rain cascading down as if the maya rain god had cor
 I	pull_plug	technical problems and high projected costs have persuaded the british government to pull the plug on any immediate plans to tap the heat of the earth for power generation
-Q	pull_plug	the press has introduced into common speech such expressions as lsquo pulling the plug rsquo or lsquo switching off the machine rsquo
-Q	pull_plug	turning off the ventilator lsquo pulling the plug rsquo the argument goes is an rather than a positive act
-Q	pull_plug	lsquo pulling the plug rsquo is not an event to tax the criminal lawyer
-Q	pull_plug	lsquo pulling the plug rsquo in such a case is significant from a medical-legal point of view
-I	pull_plug	whether a court would grant a patient an order requiring a doctor or whoever to cease treatment to lsquo pull the plug rsquo is not yet known in england
+Q	pull_plug	the press has introduced into common speech such expressions as  pulling the plug  or  switching off the machine 
+Q	pull_plug	turning off the ventilator  pulling the plug  the argument goes is an rather than a positive act
+Q	pull_plug	 pulling the plug  is not an event to tax the criminal lawyer
+Q	pull_plug	 pulling the plug  in such a case is significant from a medical-legal point of view
+I	pull_plug	whether a court would grant a patient an order requiring a doctor or whoever to cease treatment to  pull the plug  is not yet known in england
 I	pull_plug	in partnerships at levels one and two the parent body may pull the plug or change the terms of reference because the partnership activity is not essential to the main busi
 I	pull_plug	britain pulls plug on pwr safety research
 I	pull_plug	the british government has decided to pull the plug on a european investigation into what happens when a pressurised-water reactor goes badly wrong
 I	pull_plug	property shares will get a shot-in-the-arm should one of their over-geared number announce that its bankers are backing it into the new year rather than pulling the plug
-Q	pull_plug	lsquo if it not sorted out this week i will pull the plug. rsquo
+Q	pull_plug	 if it not sorted out this week i will pull the plug. 
 I	pull_plug	the plug has finally been pulled on the london ambulance service computer that may have been responsible for up to
 Q	pull_plug	they studied referees reports and may recommend pulling the plug again after the final at wembley on march
 I	pull_plug	the region could be faced with a large number of knock-on job losses if american airlines pulls the plug on its loss-making stansted to chicago route
@@ -582,21 +582,21 @@ L	pull_plug	he uses a special tool called a cheese iron to pull a long plug of c
 Q	pull_plug	pulling the plug
 L	pull_plug	i do n't shut all the internal doors and i certainly do n't pull most plugs out at the socket
 I	pull_plug	she had also considered that vaclav trefusis would eventually get tired enough to stretch his authority and pull the plug anyway listing his dreamers as acceptable losses
-Q	pull_plug	lsquo they pull the plug no matter what the law says. rsquo
-I	pull_plug	lsquo when you pulled the plug on cbn and the contra deal
+Q	pull_plug	 they pull the plug no matter what the law says. 
+I	pull_plug	 when you pulled the plug on cbn and the contra deal
 L	pull_plug	feeling restless and irritable and in no mood for doing her ironing she pulled the plug out with an angry little jerk
 I	pull_plug	by the time it had gone through its trauma jann wenner and mick jagger had pulled the plug on the london rolling stone
 L	pull_plug	if you just pull the plug it does n't have time to erase the temporary files it used and if you are using the latest smartdrv utility you might even lose data that you thoug
 I	pull_plug	if the plug is pulled on the tour there be a scramble to replace the boks hellip but i believe the rfu are already looking to france to step into the breach
 L	pull_plug	now when you hear that mentioned in the betting shops go no and pull the plugs out of the television
 L	pull_plug	when i pulled the bath plug
-L	pull_plug	rsquo anybody could gone outside and pulled a plug out of the wall and the show would been off the air a lot of people probably wish they had. rsquo
+L	pull_plug	 anybody could gone outside and pulled a plug out of the wall and the show would been off the air a lot of people probably wish they had. 
 L	pull_plug	all was going well until a passing lad with a sense of fun pulled out the plug
 L	pull_plug	therese followed the fire flex along the stage and pulled the plug from the socket
 I	pull_plug	the commission were gon pull the plug on < gap desc=address reason=anonymization > because of your failure while you were in control to adhere to the programme
 L	pull_plug	when it steadied she pulled out the bath plug and knelt to hold her protesting head under the running water from the tap
 L	pull_plug	there mould on the wall plugs have been pulled from the sockets
-I	pull_plug	lsquo we feel that if we did not pursue this second transplant it would be like to put it bluntly pulling the plug on her
+I	pull_plug	 we feel that if we did not pursue this second transplant it would be like to put it bluntly pulling the plug on her
 I	pull_plug	it has also been agreed that italy will pay a reciprocal visit to dublin in april when they will take part in a four nations competition to replace the home international c
 I	pull_plug	it has also been agreed that italy will pay a reciprocal visit to dublin in april when they will take part in a four nations competition to replace the home international c
 I	pull_plug	in view of all the talk about a resumption of political talks i been looking at the last word of the ulster unionists on the subject delivered just before the plug was
@@ -613,68 +613,68 @@ L	pull_weight	where two tractors are of equal power the heavier will probably ne
 I	pull_weight	perhaps you will have a part-time job and a small capital reserve to tide you over the lean years until the farm is pulling its weight
 I	pull_weight	after all we each know who pulls their weight and who ligs it
 I	pull_weight	ask yourself whether others who live in your home are pulling their weight
-Q	pull_weight	but if anyone was n't pulling his weight herbert chapman soon got to know about it. rsquo
+Q	pull_weight	but if anyone was n't pulling his weight herbert chapman soon got to know about it. 
 I	pull_weight	if someone at work is not pulling their weight we must be straightforward and talk to them without anger remaining tolerant even if they are cynical
 I	pull_weight	we have been brought up to regard the house as our domain and despite wanting a man to pull his weight can resent the feeling of being usurped
 I	pull_weight	it is a pity that our share of the glory at cern mdash britain pays a lot of money into this uniquely successful collaboration each year mdash is marred by european c
-I	pull_weight	often it is the company wife who is being quietly summed up to see if she can lsquo keep up rsquo with her husband or pull her weight in a job which makes a lot of soci
-I	pull_weight	candidate answer lsquo of course i do n't mind when things are very hectic i always keen to pull my weight
-L	pull_weight	lsquo i can pull weights rsquo said nicholas
+I	pull_weight	often it is the company wife who is being quietly summed up to see if she can  keep up  with her husband or pull her weight in a job which makes a lot of soci
+I	pull_weight	candidate answer  of course i do n't mind when things are very hectic i always keen to pull my weight
+L	pull_weight	 i can pull weights  said nicholas
 Q	pull_weight	he did n't pull his weight but knew how to keep it from the consultants
 Q	pull_weight	dalian pulls his weight
 Q	pull_weight	atkinson is pulling his weight
-I	pull_weight	these domestic arrangements may depend on a number of people lsquo pulling their weight rsquo and the reliability of individuals is critical for the safety and well-bei
-I	pull_weight	lsquo we all got to do our duty pull our weight et cetera et cetera rsquo
-I	pull_weight	he warned them lsquo you ca n't have all the perks without pulling your weight
+I	pull_weight	these domestic arrangements may depend on a number of people  pulling their weight  and the reliability of individuals is critical for the safety and well-bei
+I	pull_weight	 we all got to do our duty pull our weight et cetera et cetera 
+I	pull_weight	he warned them  you ca n't have all the perks without pulling your weight
 I	pull_weight	some members of this class have n't been pulling their weight
 I	pull_weight	this guarantees total inadequacy but the pay-off is a the knowledge that nobody could cope with all fifteen and that therefore the failure does not reflect badly on h
 I	pull_weight	responsible neighbourly and democratic for nearly half a century it has been as gemtlich abroad as it has been at home pulling either its weight or its punches as the
 L	pull_weight	the cost is mdash though customers must provide their own cars which need to have engines powerful enough to pull all that extra weight
 I	pull_weight	she thought at least mary and reggie will pull their weight at least one can say that of their kind hellip
 Q	pull_weight	all members were expected to pull their weight
-I	pull_weight	should partners neglect to do their work or fail to lsquo pull their weight rsquo through absence etc. the other partners are entitled to compensation
+I	pull_weight	should partners neglect to do their work or fail to  pull their weight  through absence etc. the other partners are entitled to compensation
 I	pull_weight	since results are dependent on team effort managers are also given an incentive to ensure that each member of the team pulls his or her weight
-Q	pull_weight	you were expected to pull your weight in this direction and there was no question of anyone getting rsquo
+Q	pull_weight	you were expected to pull your weight in this direction and there was no question of anyone getting 
 Q	pull_weight	they had to pull their weight but they brought up one or two who had lost their parents just as if they were their own children
 L	pull_weight	he found that a quiet bay gelding had been saddled for him and mounted along with the others the hearthwares hissing with effort as they pulled the weight of their armo
-Q	pull_weight	lsquo i sure i try to pull my weight sir rsquo he said his damask cheek giving no sign of the tongue inside it
+Q	pull_weight	 i sure i try to pull my weight sir  he said his damask cheek giving no sign of the tongue inside it
 Q	pull_weight	if you going to stay out your time here you have to pull your weight
 Q	pull_weight	health secretary virginia bottomley second right was pulling her weight yesterday mdash and helping raise money for save the children
 I	pull_weight	anyway please could you thank george most sincerely for his endeavours mdash the fact that everyone pulls their weight up there ensures the place runs at minimal cost
-Q	pull_weight	lsquo caroline never made any fuss about pulling her weight. rsquo
-Q	pull_weight	lsquo in this place everyone pulls his or her weight
+Q	pull_weight	 caroline never made any fuss about pulling her weight. 
+Q	pull_weight	 in this place everyone pulls his or her weight
 I	pull_weight	responding to criticism that germany was not pulling its weight within the alliance the government announced on jan
 L	pull_weight	melissa pulled her sagging weight from the fence
-I	pull_weight	she attested in september that lsquo universally householders have been shocked at the disgraceful and disgusting conditions in which a certain portion of the popu
+I	pull_weight	she attested in september that  universally householders have been shocked at the disgraceful and disgusting conditions in which a certain portion of the popu
 I	pull_weight	francis has never been interested in the business and he never pulled his weight
 I	pull_weight	it all placing an intolerable burden on charities like save the children who say far too often the international community is not pulling its weight
-Q	pull_weight	lsquo i like to feel i pulling my weight
-Q	pull_weight	lsquo after all i hate anyone to think i was n't pulling my weight. rsquo
+Q	pull_weight	 i like to feel i pulling my weight
+Q	pull_weight	 after all i hate anyone to think i was n't pulling my weight. 
 I	pull_weight	aged from eighteen to eighty some had n't rung a bell for almost fifty years but everyone pulled their weight on this historic occasion
-I	pull_weight	lsquo my job as deputy chief whip is to get mps to pull their weight so i thought i better set an example. rsquo
-Q	pull_weight	they they would love him i mean one of them < pause > it was annoying really cos terry just not pulling his weight < pause >
-I	pull_weight	i feel like i can be contributed towards < unclear > for i must admit that i do feel as though i could be pulling my weight a bit especially when chris worries about mone
+I	pull_weight	 my job as deputy chief whip is to get mps to pull their weight so i thought i better set an example. 
+Q	pull_weight	they they would love him i mean one of them  it was annoying really cos terry just not pulling his weight 
+I	pull_weight	i feel like i can be contributed towards  for i must admit that i do feel as though i could be pulling my weight a bit especially when chris worries about mone
 Q	pull_weight	you need treating pull some weight
 I	see_star	well three nuts spat me out and i can honestly say that the first time i fell headfirst facing outwards above the wall we had just climbed i really did see stars
 L	see_star	it was one of those gorgeous early mornings when the sun has just risen but it still dark enough to see the brightest stars
 L	see_star	a nice piece of work but bear in mind that a much more ambitious measurement which would have taken the biggest chunk of the hubble observing time is completely beyond
 L	see_star	the darkness intensified down in the wood though i could see stars between the boughs
-L	see_star	for we have seen his star in the east and are come to worship him. rsquo
+L	see_star	for we have seen his star in the east and are come to worship him. 
 L	see_star	and when they saw the star they rejoiced with exceeding great joy
 Q	see_star	pete saw stars
 L	see_star	at mgm he saw all the famous movie stars that populated that most famous of studios and to his friends he name-dropped a few like grace kelly with whom he fell in love fr
 L	see_star	it was a starry night that night and by leaning against the cold window boy could see the stars not the stars of the bar ceiling now but the real ones
 L	see_star	then they drove on freezing because boy kept his window down so that he could see the stars
 L	see_star	in the same way they look up into the night sky to see the stars and feel the awe and wonder of the infinite worlds with their infinite distances into which may be submerged
-L	see_star	do people pay to go to athletics meetings because it lsquo athletics rsquo or do they go to see the individual stars
+L	see_star	do people pay to go to athletics meetings because it  athletics  or do they go to see the individual stars
 L	see_star	see the stars
 I	see_star	the fist came up and caught him on the side of the head and jack went down seeing little sparkling stars
 L	see_star	one day much to dustin irritation she asked the driver of the limo that was taking the two of them back to manhattan to stop because she saw a wishing star in the sky
 L	see_star	but itv association chairman greg dyke said the proposal would lead to the network losing hit shows and mean stars like the bill christopher ellison would only be seen on
 L	see_star	see the stars and have fun at a bargain price
 Q	see_star	it love-all when elton sees stars
-L	see_star	she said lsquo i been here for three weeks i have n't seen one movie star until now rsquo and she came over and got my autograph
-L	see_star	and then she turned to cary grant and said lsquo you never see any movie stars do you rsquo
+L	see_star	she said  i been here for three weeks i have n't seen one movie star until now  and she came over and got my autograph
+L	see_star	and then she turned to cary grant and said  you never see any movie stars do you 
 Q	see_star	george sees stars
 L	see_star	showmen knew that middle-class critics had to be bought off and that topicality could sell films to certain audiences but they also appreciated that audiences were more like
 L	see_star	no other stars are seen close to the radio position
@@ -688,7 +688,7 @@ L	see_star	if you use binoculars or a telescope and see a star as a large shimme
 L	see_star	i have often looked for it with binoculars but i have never been able to glimpse it even with though my refractor brings it out unmistakably and with my
 L	see_star	with but not with lower magnifications i can see individual stars in it
 L	see_star	there is however one splendid open cluster m41 which is easily visible with the naked eye and is resolvable with binoculars various individual stars can be seen with
-I	see_star	lsquo i see a lot more stars when carmen hit me over the head with it
+I	see_star	 i see a lot more stars when carmen hit me over the head with it
 L	see_star	and it was no longer black outside ace could see the stars and as she stood she found herself looking down through one of the side windows at the reticulated surface of
 L	see_star	those who have only seen the northern stars may not realize how much more dramatic are those of the southern hemisphere
 L	see_star	still she could see no star
@@ -699,16 +699,16 @@ L	see_star	normally one is not able to see stars in the sky that are in almost t
 L	see_star	we would not be able to see such a star because light from its surface would not reach us it would be dragged back by the star gravitational field
 Q	see_star	he could see stars
 L	see_star	he never seen stars like he seen them around here cold and diamond-sharp and so many
-Q	see_star	lsquo i see stars rsquo she whispered into his ear clutching him tightly her eyes shut all-seeing in the darkness understanding earth and time and life and what it is
-L	see_star	lsquo the mist nearly cleared and i like to see the stars. rsquo
+Q	see_star	 i see stars  she whispered into his ear clutching him tightly her eyes shut all-seeing in the darkness understanding earth and time and life and what it is
+L	see_star	 the mist nearly cleared and i like to see the stars. 
 Q	see_star	her head rocked and for the first time in her life she quite literally saw stars
 L	see_star	but what about the sailors in the southern hemisphere mdash the part of the earth south of the equator they could n't see the pole star so what did they use to guide them
-L	see_star	lsquo you ca n't see any stars by day
+L	see_star	 you ca n't see any stars by day
 L	see_star	there was water on the road where the stars could be seen reflected
 L	see_star	he smelled the burning in the air saw the stars dimmed by smoke above him
 L	see_star	but the wind had dropped and he could see the stars
 L	see_star	we do n't know how many solar systems there are in each galaxy because we can only see stars not planets but we earlier used an estimate that there may be
-Q	see_star	i never seen so many stars. rsquo
+Q	see_star	i never seen so many stars. 
 I	see_star	tv astronomer patrick moore saw stars when he came a cropper on the cricket field
 L	see_star	so this is the same idea and if there a star something that i did see a wee while ago i saw a f a light very close down to the horizon and i said i never seen a star
 L	see_star	but there is no sky at the top defying folklore i can see no stars
@@ -726,7 +726,7 @@ L	see_star	while many spectators spend the afternoon guzzling champagne and in o
 L	see_star	i even made the occasional trip into the west end of an evening to see the latest music-hall star
 L	see_star	when scott looked out he could see the stars and many flashing lights
 L	take_heart	she took my heart and squashed the sucker flat
-I	take_heart	lsquo for those were troublous times rsquo he said on a downward-curving cadence lsquo and such times have come again but take heart for lsquo when joshua heard th
+I	take_heart	 for those were troublous times  he said on a downward-curving cadence  and such times have come again but take heart for  when joshua heard th
 I	take_heart	but we can take heart from the fact that apart from germany britain enjoys the greatest choice and variety of beers in europe
 I	take_heart	the latter camp took heart yesterday from mr rocard insistence that any decision must be based on a consensus but realise that they have a tough fight ahead persuading
 I	take_heart	he can take heart from the events of
@@ -734,7 +734,7 @@ I	take_heart	however they are taking heart that it is now back to a comfortable
 I	take_heart	however they are taking heart that it is now back to a comfortable
 L	take_heart	he ends up doing surgery on himself and takes his heart out listens to it like a clock and throws it to the audience
 I	take_heart	officials take heart that the economy has not collapsed since the withdrawal of soviet aid
-L	take_heart	like harvey he took the heart to be lsquo the of life rsquo and of crucial importance
+L	take_heart	like harvey he took the heart to be  the of life  and of crucial importance
 I	take_heart	it is however to suggest that we all take heart
 L	take_heart	and takes our hearts our minds our souls
 I	take_heart	opponents of the regime took new heart from the stalingrad disaster and their limited revival resulted in a spread of illegal broadsheets and surreptitiously daubed graff
@@ -744,7 +744,7 @@ I	take_heart	however the tories who have gone into coalition only in times of gr
 I	take_heart	mr letwin the conservative candidate for hampstead who lost to the somewhat more primal miss glenda jackson should take heart
 I	take_heart	but the communicators can take heart
 I	take_heart	taking heart from another record-setting session on wall street overnight the ft-se
-L	take_heart	to this joseph protested lsquo if i could i would take my heart out and hold it in my hand and let the great father and the white people see that there is nothing in i
+L	take_heart	to this joseph protested  if i could i would take my heart out and hold it in my hand and let the great father and the white people see that there is nothing in i
 L	take_heart	it takes a hard heart not to get involved in at least some of the games and sports on offer mdash especially when everything free mdash and even aerobics taken on gr
 I	take_heart	the macleans on the beach took fresh heart they were still outnumbered but at least they had a chance
 L	take_heart	take my heart mdash it is thine own
@@ -762,32 +762,32 @@ I	take_heart	taking heart from a check-up
 I	take_heart	but lovers of novels in everyday ink and print can take heart from the fact that electronic book publishing lends itself best to reference material
 I	take_heart	lovers of novels in everyday ink and print can take heart from the fact that electronic book publishing lends itself best to reference material
 I	take_heart	i would like to thank all concerned with your magazine especially the readers who sent letters of encouragement because whilst i was struggling to i read aim and t
-I	take_heart	lsquo my lord i shall endeavour to take heart from your assurances in regard to lord hastings mdash i derive much comfort from your undertaking in respect of this my y
+I	take_heart	 my lord i shall endeavour to take heart from your assurances in regard to lord hastings mdash i derive much comfort from your undertaking in respect of this my y
 Q	take_heart	take heart
-I	take_heart	there is more bad news to come but let us pause for a moment to take heart
-L	take_heart	lsquo it will be like taking the heart out of birkenhead rsquo he said
+I	take_heart	there is more bad news to come but let us  for a moment to take heart
+L	take_heart	 it will be like taking the heart out of birkenhead  he said
 I	take_heart	we take considerable heart from the knowledge that mdash despite the strain on educational resources mdash many teachers are showing their awareness of the importance
 L	take_heart	perhaps trine was telling the truth and love hearts were being taken at raves all over the country
 Q	take_heart	leaves mdash courage take heart
 I	take_heart	mr major asks industry to take heart from the fact that things are quite different now
 I	take_heart	mr lamont will take heart from the manufacturing figures which could be an early indication that britain beleaguered industrial base is climbing out of recession
-I	take_heart	lsquo but we can take heart from the celtic and leeds results and carry a lot of optimism with us into the first leg in germany
+I	take_heart	 but we can take heart from the celtic and leeds results and carry a lot of optimism with us into the first leg in germany
 Q	take_heart	where he rode the elves took heart
 I	take_heart	the civilians took heart
 I	take_heart	a second reason why bulls have taken heart is that after a two-year imf programme which ended in march the government is now going for growth
 I	take_heart	sunwatchers if you were expecting texas instruments to formally announce the viking chip before sun trots out its viking boxes may
 I	take_heart	we should take heart from the encouraging stories i have heard recently about the success some retailers have had in selling british cheeses to the french
-I	take_heart	instead the report lsquo took heart from rsquo and quoted the extract from the tgat report given above
+I	take_heart	instead the report  took heart from  and quoted the extract from the tgat report given above
 I	take_heart	claudia probably took heart from another of mauss strictures that the ethnographer should not only observe the particular but keep in mind the context
 L	take_heart	every few blocks a building or two had been gutted walls standing roofs collapsed as if random artillery shelling had taken out the commercial heart of the city leavi
 I	take_heart	for some cruel reason i took heart from the very ordinariness of her misery
 I	take_heart	despite this drife should take heart from the cartoons in the journals
 I	take_heart	for his heart had been taken by the sight of neva as hers with him and he had followed her
-I	take_heart	but time was when i would have said the same of you rsquo he added wryly and took heart at hearing hugh laugh if only briefly and softly
+I	take_heart	but time was when i would have said the same of you  he added wryly and took heart at hearing hugh  if only briefly and softly
 I	take_heart	parents in mixed marriages who are concerned about how this affects their offspring should take heart from new research
 L	take_heart	she reached to take the heart and it crumbled fell to bits
-L	take_heart	lsquo in taking the heart out of the lothians the government is also severely prejudicing the ability of edinburgh to compete on the european and world stage rsquo sai
-L	take_heart	lsquo in taking the heart out of the lothians the government is also severely prejudicing the ability of [ the ] edinburgh to compete on the european and world stage
+L	take_heart	 in taking the heart out of the lothians the government is also severely prejudicing the ability of edinburgh to compete on the european and world stage  sai
+L	take_heart	 in taking the heart out of the lothians the government is also severely prejudicing the ability of [ the ] edinburgh to compete on the european and world stage
 I	take_heart	i can only say i took some heart in all of this from the following interchange which had taken place on
 I	take_heart	we must take heart from our experience in hyde park we must nurture that support and build up the confidence of our members
 I	take_heart	julian looked about her and took heart
@@ -806,9 +806,9 @@ I	take_heart	under-fire england boss takes fresh heart from brazil draw
 I	take_heart	under-fire england boss takes fresh heart from brazil draw
 I	take_heart	would-be collectors can however take heart in the fact that half of the show is made up of smaller works done in oil on paper priced at œ
 I	take_heart	still chasing a place in europe next season celtic took heart from an honourable draw at aberdeen last week
-I	take_heart	the city will take heart that barclays is listening to its shareholders. rsquo
+I	take_heart	the city will take heart that barclays is listening to its shareholders. 
 I	take_heart	although they eventually succumbed by five wickets scotland can take heart from yesterday performance in stellenbosch against a team which included two warwickshire pla
-I	take_heart	francis added rsquo we can certainly take heart from what leeds and celtic have done and having already played kaiserslautern i still convinced we can win through. r
-I	take_heart	it says < voice quality reading > no doubt employers < pause > employers < pause > or other individuals will keep on pestering you and probably add insult to injury take heart
-L	take_heart	she said to me phil they ca n't < unclear > my spirit but they really took the heart out of me
+I	take_heart	francis added  we can certainly take heart from what leeds and celtic have done and having already played kaiserslautern i still convinced we can win through. r
+I	take_heart	it says < voice quality reading > no doubt employers  employers  or other individuals will keep on pestering you and probably add insult to injury take heart
+L	take_heart	she said to me phil they ca n't  my spirit but they really took the heart out of me
 L	take_heart	well what about this union are we gon let it take the heart out of us
