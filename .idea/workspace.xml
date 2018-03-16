@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ef7b6e-44c6-4053-a856-1e43d88cc93a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/idiom_detector/functions.py" afterPath="$PROJECT_DIR$/idiom_detector/functions.py" />
-      <change beforePath="$PROJECT_DIR$/idiom_detector/views.py" afterPath="$PROJECT_DIR$/idiom_detector/views.py" />
+      <change beforePath="$PROJECT_DIR$/idiom_detector/Templates/index.html" afterPath="$PROJECT_DIR$/idiom_detector/Templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/idiom_detector/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="120">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -29,6 +28,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/idiom_detector/Templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="69" column="144" lean-forward="false" selection-start-line="69" selection-start-column="144" selection-end-line="69" selection-end-column="144" />
               <folding />
             </state>
           </provider>
@@ -51,16 +60,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="185" column="42" lean-forward="false" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="successful.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/idiom_detector/Templates/successful.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="184" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -140,13 +139,13 @@
       <list>
         <option value="$PROJECT_DIR$/IdiomDetectorServer/settings.py" />
         <option value="$PROJECT_DIR$/idiom_detector/forms.py" />
-        <option value="$PROJECT_DIR$/idiom_detector/Templates/index.html" />
         <option value="$PROJECT_DIR$/IdiomDetectorServer/urls.py" />
         <option value="$PROJECT_DIR$/idiom_detector/Templates/result.html" />
         <option value="$PROJECT_DIR$/idiom_detector/VNAAD_extraction_SVM_input.py" />
         <option value="$PROJECT_DIR$/idiom_detector/VNAAD_extraction_SVM_best.py" />
         <option value="$PROJECT_DIR$/idiom_detector/functions.py" />
         <option value="$PROJECT_DIR$/idiom_detector/views.py" />
+        <option value="$PROJECT_DIR$/idiom_detector/Templates/index.html" />
       </list>
     </option>
   </component>
@@ -183,6 +182,12 @@
               <item name="IdiomDetectorServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdiomDetectorServer" type="462c0819:PsiDirectoryNode" />
               <item name="idiom_detector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdiomDetectorServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdiomDetectorServer" type="462c0819:PsiDirectoryNode" />
+              <item name="idiom_detector" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -477,16 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/idiom_detector/Templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="67" column="51" lean-forward="false" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/idiom_detector/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -510,14 +505,6 @@
           <folding>
             <element signature="e#643#675#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idiom_detector/Templates/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="185" column="42" lean-forward="false" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,8 +580,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/idiom_detector/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idiom_detector/Templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="185" column="42" lean-forward="false" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idiom_detector/Templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="69" column="144" lean-forward="false" selection-start-line="69" selection-start-column="144" selection-end-line="69" selection-end-column="144" />
           <folding />
         </state>
       </provider>
